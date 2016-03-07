@@ -7,4 +7,5 @@
 * [Hewitt, Meijer and Szyperski: The Actor Model (everything you wanted to know...)] (https://www.youtube.com/watch?v=7erJ1DV_Tlo)
 * [Expert to Expert: Rich Hickey and Brian Beckman - Inside Clojure] (https://www.youtube.com/watch?v=wASCH_gPnDw)
 * [The Birth & Death of JavaScript] (https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
-
+* [The Last Programming Language](http://www.infoq.com/presentations/history-future-programming-languages)
+* [Robust-first computing: Demon Horde Sort (full version)](https://www.youtube.com/watch?v=helScS3coAE)
