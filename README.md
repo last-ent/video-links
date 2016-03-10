@@ -9,3 +9,4 @@
 * [The Birth & Death of JavaScript] (https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript)
 * [The Last Programming Language](http://www.infoq.com/presentations/history-future-programming-languages)
 * [Robust-first computing: Demon Horde Sort (full version)](https://www.youtube.com/watch?v=helScS3coAE)
+* [The Silver Bullet Syndrome] (https://www.youtube.com/watch?v=3wyd6J3yjcs)
