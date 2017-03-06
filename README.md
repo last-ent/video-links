@@ -10,3 +10,4 @@
 * [The Last Programming Language](http://www.infoq.com/presentations/history-future-programming-languages)
 * [Robust-first computing: Demon Horde Sort (full version)](https://www.youtube.com/watch?v=helScS3coAE)
 * [The Silver Bullet Syndrome] (https://www.youtube.com/watch?v=3wyd6J3yjcs)
+* [Networking for Physics Programmers](http://www.gdcvault.com/play/1022195/Physics-for-Game-Programmers-Networking)
