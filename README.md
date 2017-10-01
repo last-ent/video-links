@@ -13,3 +13,4 @@
 * [Networking for Physics Programmers](http://www.gdcvault.com/play/1022195/Physics-for-Game-Programmers-Networking)
 * [Scaling Up to Your First 10 Million Users](https://www.youtube.com/watch?v=n28lDDdlnVg)
 * [Understanding Channels](https://www.youtube.com/watch?v=KBZlN0izeiY)
+* [Understanding USB (in Linux)](https://www.youtube.com/watch?v=JLhcE0O4bt0)
