@@ -14,3 +14,4 @@
 * [Scaling Up to Your First 10 Million Users](https://www.youtube.com/watch?v=n28lDDdlnVg)
 * [Understanding Channels](https://www.youtube.com/watch?v=KBZlN0izeiY)
 * [Understanding USB (in Linux)](https://www.youtube.com/watch?v=JLhcE0O4bt0)
+* [The Scheduler Saga](https://www.youtube.com/watch?v=YHRO5WQGh0k)
