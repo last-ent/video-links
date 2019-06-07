@@ -15,3 +15,4 @@
 * [Understanding Channels](https://www.youtube.com/watch?v=KBZlN0izeiY)
 * [Understanding USB (in Linux)](https://www.youtube.com/watch?v=JLhcE0O4bt0)
 * [The Scheduler Saga](https://www.youtube.com/watch?v=YHRO5WQGh0k)
+* [Beyond Eventual Consistency](https://www.youtube.com/watch?v=Io-zs7uwpOMBe)
